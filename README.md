@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-#Reg no:212225230088  
-#Name:G Sushanth  
-#Date:03-08-2026  
+## Reg no:212225230088  
+## Name:G Sushanth  
+## Date:03-08-2026  
 
 
 
